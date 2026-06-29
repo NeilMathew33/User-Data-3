@@ -92,7 +92,6 @@ const AddUserData = () => {
                 </div>
             </div>
 
-        
     )
 }
 
